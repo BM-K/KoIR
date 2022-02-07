@@ -2,7 +2,7 @@
 Korean Information Retrieval
 
 ## ToDo
-- [ ] Training Objects
+- [X] Training Objects
 - [ ] Data Preprocessing
 - [ ] Hyperparameters Tuning
 - [ ] Okapi BM25
