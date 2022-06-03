@@ -1,0 +1,4 @@
+data/db.tsv filter=lfs diff=lfs merge=lfs -text
+data/dev_neg.tsv filter=lfs diff=lfs merge=lfs -text
+data/train_neg.tsv filter=lfs diff=lfs merge=lfs -text
+data/test_with_idx.tsv filter=lfs diff=lfs merge=lfs -text
