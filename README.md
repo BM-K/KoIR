@@ -30,8 +30,3 @@ bash examples.sh
 
 ## Question mark
 colbert에 masked query 만들면 성능 떨어지던데?
-
-## ToDo
-- [X] Training Objects
-- [X] CL
-- [X] BM25
